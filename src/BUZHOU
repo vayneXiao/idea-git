@@ -2,4 +2,4 @@
 （不进行这一步右击项目不出现git选项）
 2，git - add 绿色
 3，git - commit 目录  黑色
-4，在github创建仓库，idea右击git - push
+4，在github创建仓库，idea右击git - push，Define Remote 填写自己github的项目地址
