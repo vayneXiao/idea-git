@@ -1,0 +1,5 @@
+1，VCS选中项目文件夹创建为git仓库，新文件为褐色
+（不进行这一步右击项目不出现git选项）
+2，git - add 绿色
+3，git - commit 目录  黑色
+4，在github创建仓库，idea右击git - push
